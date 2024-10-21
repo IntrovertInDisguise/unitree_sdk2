@@ -38,11 +38,12 @@ enum test_mode
 // Modify this array to define the sequence of actions
 const test_mode action_sequence[] = {
   normal_stand,
-  velocity_move,
-  trajectory_follow,
+  rise_sit,
+  stretch,
   stand_down,
   stand_up,
   sit,
+  wallow,
   rise_sit,
   stop_move
 };
