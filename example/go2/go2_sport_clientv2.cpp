@@ -39,10 +39,11 @@ enum test_mode
 const test_mode action_sequence[] = {
   normal_stand,
   rise_sit,
-  stretch,
+  pose,
   stand_down,
   stand_up,
   sit,
+ normal_stand,
   wallow,
   rise_sit,
   stop_move
